@@ -1,4 +1,4 @@
-# RachaConta 🧾
+# dividir_conta 🧾
 
 App de divisão de contas de restaurante com sistema granular de divisão por item.
 
